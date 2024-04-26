@@ -18,6 +18,8 @@ Here are some tools that you might want to use for the hackathon if you're parti
 
 ## Data Science
 
+These are the datasets provided for the hackathon.
+
 [ECoG](https://www.gtec.at/downloads_QyTs23/Hackathon/ecog.rar)
 
 [ECoG Video](https://www.gtec.at/downloads_QyTs23/Hackathon/ecog_video.rar)
