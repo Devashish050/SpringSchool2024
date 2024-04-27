@@ -1,5 +1,17 @@
 # Spring School Hackathon 2024
 
+## Presentation information
+
+- Please upload your presentation until 13:00
+
+- Please upload to your corresponding group number
+
+- We have a lot of teams this year and we want to give everyone the chance to present their work. So please keep your presentation short (2-3 minutes we'll update the presentation time as soon as we have an idea about the final number of presenters)
+
+### Upload link
+
+[Presentation Upload](https://drive.google.com/drive/folders/1UyXej02_OCLWEUcjbRFH5LTdlSqyP9Jj?usp=drive_link)
+
 ## Presentation Template
 
 [Presentation Template](./Presentation%20Template/template-hackathon-presentation.pptx)
