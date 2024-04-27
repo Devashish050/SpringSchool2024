@@ -1,12 +1,12 @@
 # Spring School Hackathon 2024
 
+## Presentation Template
+
+[Presentation Template](./Presentation%20Template/template-hackathon-presentation.pptx)
+
 ## Programming, Gaming, Artistic
 
 Here are some tools that you might want to use for the hackathon if you're participating in a programming, gaming or artistic project.
-
-### Presentation Template
-
-[Presentation Template](./Presentation%20Template/template-hackathon-presentation.pptx)
 
 ### Unicorn Suite
 
